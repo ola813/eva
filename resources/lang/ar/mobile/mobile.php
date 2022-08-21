@@ -1,0 +1,25 @@
+<?php
+return[
+    'name'                              =>'الاسم',
+    'company'                           =>'شركة',
+    'mobile_number'                     =>'رقم الموبايل',
+    'price'                             =>'مبلغ الفاتورة',
+    'status'                            =>'حالة الطلب',
+    'date'                              =>'تاريخ الطلب',
+    'country'                           =>'المحافظة',
+    'notation'                          =>'ملاحظات',
+    'details'                           =>'التفاصيل',
+    'name_admin'                        =>'منفد الطلب',
+    'Electronic Accept'                 =>'فواتير الموبايل المقبولة',
+    'account'                           =>'رصيد العميل',
+    'commission'                        =>'العمولة',
+    'pending'                           =>'قيد التنفيذ',
+    'Completed'                         =>'مكتمل',
+    'Cancel'                            =>'مرفوض',
+    'mobile new Order'                  =>'طلبات فواتير الموبايل الجديدة',
+    'mobile Order'                      =>'طلبات فواتير الموبايل',
+    'mobile Accept Order'               =>'طلبات فواتير الموبايل المقبولة',
+    'mobile cancel Order'               =>'طلبات فواتير الموبايل المرفوضة',
+    'company name'                      =>'شركة الاتصالات',
+];
+?>

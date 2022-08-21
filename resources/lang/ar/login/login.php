@@ -1,0 +1,22 @@
+<?php
+return[
+    'Sgin in'                       =>'تسجيل الدخول',
+    'Sgin up'                       => 'إنشاء حساب جديد',
+    'Email'                         =>'البريد الالكتروني',
+    'Enter Your Email'              =>'ادخل البريد الاللكتروني',
+    'Password'                      =>'كلمة المرور',
+    'Confirm Password'              =>'تاكيد كلمة المرور',
+    'Enter Your Password'           =>'ادخل كلمة المرور',
+    'Enter Your Confirm Password'   =>'تاكيد كلمة المرور',
+    'Log In'                        =>'تسجيل الدخول',
+    'first name'                    =>'الاسم الاول',
+    'Enter Your first name'         =>'ادخل الاسم الاول',
+    'last name'                     =>'الاسم الأخير',
+    'Enter Your last name'          =>'ادخل الاسم الاخير',
+    'phone'                         =>'رقم الموبايل',
+    'Enter Your phone'              =>'ادخل رقم الموبايل',
+    'Not Have Account'              =>'لا أملك حساب ؟',
+    'welcome'                       =>'لا تملك حساب ؟',
+    'Sgin up'                       =>'حساب جديد',
+    'Register'                      =>'تسجيل',
+];
